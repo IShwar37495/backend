@@ -1,0 +1,15 @@
+{
+  "name": "starting-backend3",
+  "version": "1.0.0",
+  "description": "a deep dive into backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "js"
+  ],
+  "author": "ishwar",
+  "license": "ISC"
+}
